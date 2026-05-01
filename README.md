@@ -125,10 +125,10 @@ client.close()
 ## Output
 
 ### Server
-
+![alt text](<Screenshot 2026-05-01 140459.jpeg>)
 
 ### Client
-
+![alt text](<Screenshot 2026-05-01 140534.png>)
 
 ## Result:
 
